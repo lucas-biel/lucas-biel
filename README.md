@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Lucas Gabriel
 
 - 🌱 Estudante de Engenharia de Computação
-- 😄 Pronouns:  Ele/dele
 
 <div>
   <a href="https://github.com/lucas-biel">
