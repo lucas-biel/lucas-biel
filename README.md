@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Gabriel
+## Olá! Eu sou o Lucas.
 
 - 🌱 Estudante de Engenharia de Computação
 
