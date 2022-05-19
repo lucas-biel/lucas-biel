@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas.
 
-- 🌱 Estudante de Engenharia de Computação
+- 📚 Estudante de Engenharia de Computação
 
 <div>
   <a href="https://github.com/lucas-biel">
