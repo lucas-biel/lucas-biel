@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Lucas.
 
 - 📚 Estudante de Engenharia de Computação
+- 🖥️ Dev Front-end
+- 🌱 Aprendendo HTML e CSS
 
 <div>
   <a href="https://github.com/lucas-biel">
