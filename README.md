@@ -22,6 +22,6 @@
 ##
 
 <h2>🌱 Learning</h2>
-<div style="display: inline_block; background-color: white"><br>
+<div style="display: inline_block; background-color: white;"><br>
   <img align="center" alt="Lucas-SQL-Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
