@@ -18,10 +18,3 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-##
-
-<h2>🌱 Learning</h2>
-<div style="display: inline_block; background: white"><br>
-  <img align="center" alt="Lucas-SQL-Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</div>
