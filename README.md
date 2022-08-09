@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Engenharia de Computação
 - 🖥️ Dev Front-end
-- 🌱 Learning: HTML, CSS e SQL Server
+- 🌱 Learning: HTML, CSS, JS e SQL Server
 
 ##
 
