@@ -1,8 +1,8 @@
-## Olá! Eu sou o Lucas.
+<h1>Olá! Eu sou o Lucas.</h1>
 
 - 📚 Estudante de Engenharia de Computação
 - 🖥️ Dev Front-end
-- 🌱 Learning: HTML, CSS, JS e SQL Server
+- 🌱 Learning: HTML, CSS, JS e SQL
 
 ##
 
