@@ -25,9 +25,6 @@
 <a href="https://www.linkedin.com/in/lucass-santoss" target="_blank">
   <img src="https://img.shields.io/badge//lucass_santoss-1F2D52?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/_lukas_gb" target="_blank">
-  <img src="https://img.shields.io/badge//_lukas_gb-1F2D52?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="mailto:contato.lucas.lima.santos@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/contato.lucas.lima.santos@gmail.com-1F2D52?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
