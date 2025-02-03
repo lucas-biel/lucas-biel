@@ -18,13 +18,15 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Lucas-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img style="background-color: white" align="center" alt="Lucas-JavaScript" height="30" width="40" background-color="white" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ## Contato
 <a href="https://www.linkedin.com/in/lucass-santoss" target="_blank">
-  <img src="https://img.shields.io/badge//lucass_santoss-1F2D52?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/linkedin%20-%20Lucas%20Santos%20-%20blue?style=for-the-badge">
 </a>
 <a href="mailto:contato.lucas.lima.santos@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/contato.lucas.lima.santos@gmail.com-1F2D52?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/gmail%20-%20contato.lucas.lima.santos%40gmail.com%20-%20blue?style=for-the-badge&logo=gmail">
 </a>
