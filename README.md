@@ -25,8 +25,8 @@
 
 ## Contato
 <a href="https://www.linkedin.com/in/lucass-santoss" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin%20-%20Lucas%20Santos%20-%20blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/linkedin%20-%20%230275B4?style=for-the-badge">
 </a>
 <a href="mailto:contato.lucas.lima.santos@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail%20-%20contato.lucas.lima.santos%40gmail.com%20-%20blue?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email%20-%20%23e7191b?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
