@@ -29,6 +29,6 @@
 <a href="https://www.linkedin.com/in/lucass-santoss" target="_blank">
   <img src="https://img.shields.io/badge/linkedin%20-%20%230275B4?style=for-the-badge">
 </a>
-<a href="mailto:contato.lucas.lima.santos@gmail.com" target="_blank">
+<a href="mailto:cnttlucas@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Email%20-%20%23e7191b?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
