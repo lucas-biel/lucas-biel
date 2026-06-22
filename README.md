@@ -1,9 +1,9 @@
 # Olá! Eu sou o Lucas. 👋
 ### Bem-vinda(o) ao meu perfil!
 
-- 📚 Estudante de Engenharia de Computação
-- 🖥️ Dev Front-end em ascensão
-- 🌱 Aprendendo: HTML, CSS, JS e SQL
+- 📚 Engenheiro de Computação
+- 🖥️ Analista de Dados JR
+- 🌱 Aprendendo: Python, SQL e BI
 
 ##
 
